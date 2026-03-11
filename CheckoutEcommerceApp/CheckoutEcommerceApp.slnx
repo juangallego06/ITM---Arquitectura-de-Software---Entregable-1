@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Original/Original.csproj" />
+  <Project Path="Refactoring/Refactoring.csproj" />
+</Solution>
